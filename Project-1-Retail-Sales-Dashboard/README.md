@@ -47,3 +47,6 @@ The objective was to identify:
 * Region Analysis
 * Segment Analysis
 * Monthly Sales Trend Analysis
+
+## Dashboard Preview
+![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
