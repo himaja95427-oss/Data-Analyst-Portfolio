@@ -50,3 +50,4 @@ The objective was to identify:
 
 ## Dashboard Preview
 ![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
+![Dashboard 2](Retail_Sales_Dashboard01.png)
