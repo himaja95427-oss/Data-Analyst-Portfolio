@@ -1,28 +1,38 @@
 # Data-Analyst-Portfolio
-Welcome to my Data Analyst Portfolio.
-## About Me
-Data Analyst with experience in SQL, Power BI, DAX, data analysis, reporting, and dashboard development.
+## 1. Retail Sales Performance Dashboard
 
-## Skills
+### Overview
+Built an end-to-end Retail Sales Analytics Dashboard using SQL Server and Power BI to analyze sales, profit, customer behavior, regional performance, and discount impact.
+
+### Tools Used
 * SQL Server
 * Power BI
 * DAX
 * Power Query
-* Excel
-* Data Visualization
-* Data Analysis
 
-## Portfolio Projects
-### Project 1: Retail Sales Performance Dashboard
+### Key Insights
+* Technology generated the highest sales and profit.
+* Furniture showed the lowest profitability.
+* West region achieved the highest sales.
+* Consumer segment delivered the highest profit.
+* Higher discounts negatively impacted profit margins.
+* November and December were peak sales months.
 
-Tools: SQL Server, Power BI, DAX
-Key Highlights:
-* Built an end-to-end Retail Sales Analytics Dashboard.
-* Created KPI cards for Sales, Profit, Orders, Customers, and Profit Margin.
-* Performed Category, Region, Segment, and Monthly Trend Analysis.
-* Implemented interactive slicers and business insights.
+### Project Files
+* Power BI Dashboard (.pbix)
+* SQL Analysis Script (.sql)
+* Dashboard Screenshots
 
-Project Link:
+### Skills Demonstrated
+* Data Cleaning
+* SQL Analysis
+* Data Modeling
+* DAX Measures
+* Dashboard Design
+* Business Insights Generation
+
+
+## Project Link:
 * Project-1-Retail-Sales-Dashboard
 
 ## Upcoming Projects
